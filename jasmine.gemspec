@@ -28,7 +28,6 @@ Gem::Specification.new do |s|
      "Rakefile",
      "VERSION.yml",
      "bin/jasmine",
-     "copy_examples.rb",
      "generators/jasmine/jasmine_generator.rb",
      "generators/jasmine/templates/INSTALL",
      "generators/jasmine/templates/lib/tasks/jasmine.rake",
